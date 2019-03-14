@@ -9,6 +9,7 @@ class App extends Component {
         <h1>League of Legends Quiz Game</h1>
 
         <h3>Main Page</h3>
+        <button>play the quiz</button>
       </div>
     );
   }
